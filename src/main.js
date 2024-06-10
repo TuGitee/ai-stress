@@ -25,7 +25,7 @@ import './assets/css/global.less'
 import axios from 'axios'
 
 Vue.prototype.$http = axios.create({
-  baseURL: '/data'
+  baseURL: './data'
 })
 
 new Vue({

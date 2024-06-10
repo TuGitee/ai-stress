@@ -28,6 +28,8 @@ Vue.prototype.$http = axios.create({
   baseURL: './data'
 })
 
+axios.defaults.baseURL = './'
+
 new Vue({
   render: h => h(App),
   router,

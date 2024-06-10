@@ -1,0 +1,54 @@
+[
+    {
+        "name": "心理健康测试",
+        "tips": "以下测试只有结论",
+        "links": [
+            {
+                "title": "Bech－Rafaelsen 躁狂量表 躁狂症测试",
+                "url": "https://www.dzxl120.com/post/296087.html",
+                "intro": "Bech - Rafaelsen躁狂量表主要用于评定躁狂状态的严重程度。适用于情感性精神病和分裂情感性精神病躁狂发作的成年患者，是目前应用最广的躁狂量表。"
+            },
+            {
+                "title": "社交焦虑量表(LSAS) 社交恐惧症测试",
+                "url": "https://www.dzxl120.com/post/296077.html",
+                "intro": "LSAS是由心理学家Liebowitz MR.于1987年编制的，常常用来评价社交焦虑症，是社交焦虑障碍评估中最广泛使用的工具之一。"
+            },
+            {
+                "title": "贝克焦虑量表(BAI) 焦虑自评",
+                "url": "https://www.dzxl120.com/post/296032.html",
+                "intro": "贝克焦虑量表(Beck Anxiety Inventory)由美国阿隆·贝克(Aaron T. Beck)等于1985年编制，是一个含有21个项目的自评量表。适用于具有焦虑症状的成年人。能比较准确地反映主观感受到的焦虑程度。"
+            },
+            {
+                "title": "Carroll抑郁量表(CRS) 抑郁自测",
+                "url": "https://www.dzxl120.com/post/296027.html",
+                "intro": "Carroll抑郁量表(CRS)是为与由医生评定的Hamilton抑郁量表(HRSD)做对比而设计的，其目的是为了说明抑郁的自评与他评之间的不一致性。CRS的条目涉及抑郁的行为与躯体两方面的表现。与HRSD一样，CRS用于评定抑郁症状的严重度而不是用于诊断。"
+            }
+        ]
+    },
+    {
+        "name": "心理健康结论与深入",
+        "tips": "以下测试只出结论，深度分析需购买",
+        "links": [
+            {
+                "title": "孤独症行为量表",
+                "url": "http://www.xinqingxiangjiao.com/exam/47/null/null?slr=4033",
+                "intro": "孤独症行为量表由Krug等于1978年编制，适用于18个月~35岁孤独症患者的筛查、辅助诊断。"
+            },
+            {
+                "title": "SAS焦虑自评量表7.50",
+                "url": "http://www.xinqingxiangjiao.com/exam/5/null/null?slr=4033",
+                "intro": "焦虑自评量表系是由William W.K. Zung编制的，该量表已成为心理咨询师、心理医生、精神科 大夫最常用的心理测量工具之一。主要用于疗效评估，不能用于诊断。"
+            },
+            {
+                "title": "综合心理健康评估14.85",
+                "url": "http://www.xinqingxiangjiao.com/exam/1/null/null?slr=4033",
+                "intro": "国际通用的心理健康评估量表，用于评定个体在抑郁、焦虑、人际、睡眠等多个方面的健康状况，可以较准确地区分出有心理问题的人。"
+            },
+            {
+                "title": "中学生心理测试",
+                "url": "http://www.xinqingxiangjiao.com/exam/14/null/null",
+                "intro": "中学生心理测试是对中学生健康的综合测量，适用于对中学生心理健康的整体测查。"
+            }
+        ]
+    }
+]
